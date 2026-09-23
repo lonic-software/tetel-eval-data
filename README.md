@@ -11,7 +11,8 @@ census that captured it shipped megabytes into a memo's evidence permanently.
 ## Layout
 
 `verifier-eval/` is the data for tetel's `scripts/verifier-eval/`. A file tetel's scripts or memos
-name as `scripts/verifier-eval/<rel>` is `verifier-eval/<rel>` here, byte for byte:
+name as `scripts/verifier-eval/<rel>` is `verifier-eval/<rel>` here, byte for byte as tetel last
+committed it:
 
 - everything under `verifier-eval/` except the two run directories below was tracked in tetel up to
   tetel commit `612f59f`, the last commit to have it. That commit holds every file a tetel memo
