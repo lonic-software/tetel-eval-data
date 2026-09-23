@@ -1,0 +1,1 @@
+{"seq":1,"mint":"C13","verb":"claim","status":"ok","model":"openai/gpt-5.6-luna","approach":"split","literals":true,"findings":[],"at":1790111754,"cost":0.008609704,"elapsed_ms":30337,"attempts":4,"not_verbatim":0,"literals_refuted":4,"not_a_quantity":0,"kind_off_verb":0,"refuted":0,"typed_versions":["jev-1.13.0"],"gate_calls":1,"typed_classify_calls":1,"typed_literal_calls":1}

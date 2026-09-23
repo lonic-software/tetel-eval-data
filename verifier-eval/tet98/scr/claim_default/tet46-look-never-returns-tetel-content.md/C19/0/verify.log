@@ -1,0 +1,1 @@
+{"seq":1,"mint":"C19","verb":"claim","status":"ok","model":"openai/gpt-5.6-luna","approach":"split","literals":false,"findings":[],"at":1790112939,"cost":0.0110943,"elapsed_ms":86388,"attempts":3,"not_verbatim":0,"literals_refuted":0,"not_a_quantity":0,"kind_off_verb":0,"refuted":0}

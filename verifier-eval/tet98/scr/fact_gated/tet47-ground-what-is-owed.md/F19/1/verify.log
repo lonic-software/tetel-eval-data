@@ -1,0 +1,1 @@
+{"seq":1,"mint":"F19","verb":"fact","status":"gated","model":"openai/gpt-5.6-luna","approach":"split","literals":true,"findings":[],"at":1790113754,"cost":0.00006346200000000001,"elapsed_ms":666,"attempts":1,"not_verbatim":0,"literals_refuted":0,"not_a_quantity":0,"kind_off_verb":0,"refuted":0,"typed_versions":["jev-1.13.0"],"gate_calls":1}

@@ -1,0 +1,1 @@
+{"seq":1,"mint":"F8","verb":"fact","status":"ok","model":"openai/gpt-6-luna","approach":"split","literals":true,"findings":[],"at":1790154110,"cost":0.008326311999999999,"elapsed_ms":123946,"attempts":5,"not_verbatim":0,"literals_refuted":3,"not_a_quantity":0,"kind_off_verb":0,"refuted":0,"typed_versions":["jev-1.13.0"],"gate_calls":1}

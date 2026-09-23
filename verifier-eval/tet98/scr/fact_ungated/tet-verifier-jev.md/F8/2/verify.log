@@ -1,0 +1,1 @@
+{"seq":1,"mint":"F8","verb":"fact","status":"ok","model":"openai/gpt-5.6-luna","approach":"split","literals":true,"findings":[],"at":1790111586,"cost":0.01726615,"elapsed_ms":161743,"attempts":4,"not_verbatim":0,"literals_refuted":1,"not_a_quantity":0,"kind_off_verb":0,"refuted":0}
