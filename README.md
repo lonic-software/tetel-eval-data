@@ -14,8 +14,9 @@ census that captured it shipped megabytes into a memo's evidence permanently.
 name as `scripts/verifier-eval/<rel>` is `verifier-eval/<rel>` here, byte for byte:
 
 - everything under `verifier-eval/` except the two run directories below was tracked in tetel up to
-  tetel commit `612f59f`, and memos that cite it by its old path still resolve at the commit they
-  pin, e.g. `git show 612f59f:scripts/verifier-eval/fact_v1.json`;
+  tetel commit `612f59f`, the last commit to have it. That commit holds every file a tetel memo
+  cites, e.g. `git show 612f59f:scripts/verifier-eval/fact_v1.json`. A memo's own pin may not,
+  because some files were cited before they were committed;
 - `verifier-eval/tet98/` and `verifier-eval/tet98-gpt6/` are TET-98's raw draws and the one-draw
   `gpt-6-luna` screen, which were never tracked in tetel (they sat in `../tetel-eval-runs/`).
 
